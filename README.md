@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Bitcoin Core integration/staging tree
 =====================================
 
@@ -75,4 +74,3 @@ Bitcoin
 =======
 
 Bitcoin Client
->>>>>>> efe0bcdbeccee67444c9f191d9c308ec098b0f42
