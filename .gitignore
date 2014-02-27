@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 *.tar.gz
 
 *.exe
@@ -82,3 +83,23 @@ qa/pull-tester/run-bitcoind-for-test.sh
 qa/pull-tester/build-tests.sh
 
 !src/leveldb-*/Makefile
+=======
+# Object files
+*.o
+*.ko
+
+# Libraries
+*.lib
+*.a
+
+# Shared objects (inc. Windows DLLs)
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Executables
+*.exe
+*.out
+*.app
+>>>>>>> efe0bcdbeccee67444c9f191d9c308ec098b0f42
