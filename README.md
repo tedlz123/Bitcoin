@@ -69,11 +69,3 @@ for the build/test scripts.
 Large changes should have a test plan, and should be tested by somebody other
 than the developer who wrote the code.
 See https://github.com/bitcoin/QA/ for how to create a test plan.
-<<<<<<< HEAD
-=======
-Bitcoin
-=======
-
-Bitcoin Client
-=======
->>>>>>> ed68496b357a367e0fe0baf3c63496e780f295f8
