@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Bitcoin Core integration/staging tree
 =====================================
 
@@ -70,9 +69,3 @@ for the build/test scripts.
 Large changes should have a test plan, and should be tested by somebody other
 than the developer who wrote the code.
 See https://github.com/bitcoin/QA/ for how to create a test plan.
-=======
-Bitcoin
-=======
-
-Bitcoin Client
->>>>>>> efe0bcdbeccee67444c9f191d9c308ec098b0f42
